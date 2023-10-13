@@ -1,6 +1,7 @@
 # Class 04
-## 2023-10-12
+OCT-12-2023
 
-### Functions
-### Arrays
-### Objects
+Topics:
+- Functions
+- Arrays
+- Objects
